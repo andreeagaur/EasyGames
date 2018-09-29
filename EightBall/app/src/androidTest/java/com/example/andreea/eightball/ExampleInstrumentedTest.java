@@ -1,4 +1,4 @@
-package com.example.andreea.bullseye;
+package com.example.andreea.eightball;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.andreea.bullseye", appContext.getPackageName());
+        assertEquals("com.example.andreea.eightball", appContext.getPackageName());
     }
 }

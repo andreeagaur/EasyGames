@@ -1,4 +1,4 @@
-package com.example.andreea.bullseye;
+package com.example.andreea.eightball;
 
 import org.junit.Test;
 
